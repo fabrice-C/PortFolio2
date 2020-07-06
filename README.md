@@ -1,6 +1,6 @@
 # Portfolio Fabrice Chapier V. 2.0
 
-Ce **portfolio** fait ressortir mes compétences techniques et mes principales "soft-skills", mes projets réalisés pour la formation *Simplon*, mes expériences professionnelles, mes projets personnels terminés et en cours, et les informations pour me contacter.
+Ce **portfolio** fait ressortir mes compétences techniques et mes principales "soft-skills", mes projets réalisés pour la formation *Simplon*, mes expériences professionnelles et les informations pour me contacter.
 
 Par rapport au premier portfolio, j'ai **mis en pratique les nouvelles compétences** acquises pendant et après cette formation *Simplon* et mon stage en entreprise chez ***Arystis-Web*** à Clermont-Ferrand.
 
