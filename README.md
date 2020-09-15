@@ -48,3 +48,4 @@ Présentation des **expériences professionnelles**.
 
 
 #### Capture écrans
+![PortfolioSimplonFC-V2-captures@0,33x](https://user-images.githubusercontent.com/52313745/93267979-c2089780-f7ac-11ea-91a3-058f9b04b1f9.png)
