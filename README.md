@@ -1,4 +1,4 @@
-# Portfolio Fabrice Chapier V. 2.0
+# Portfolio Fabrice Chapier V. 3.0
 
 Ce **portfolio** fait ressortir mes compétences techniques et mes principales "soft-skills", mes projets réalisés pour la formation *Simplon*, mes expériences professionnelles et les informations pour me contacter.
 
