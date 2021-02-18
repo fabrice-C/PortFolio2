@@ -1,6 +1,11 @@
 # Portfolio Fabrice Chapier V. 3.0
 
-Ce **portfolio** fait ressortir mes compétences techniques et mes principales "soft-skills", mes projets réalisés pour la formation *Simplon*, mes expériences professionnelles et les informations pour me contacter.
+Ce **portfolio** fait ressortir :
+* mes compétences techniques, 
+* mes principales "soft-skills", 
+* mes projets réalisés pour la **formation Simplon**, 
+* mes expériences professionnelles,
+* et les informations pour me contacter.
 
 Par rapport au premier portfolio, j'ai **mis en pratique les nouvelles compétences** acquises pendant et après cette formation *Simplon* et mon stage en entreprise chez ***Arystis-Web*** à Clermont-Ferrand.
 
@@ -35,4 +40,12 @@ Présentation des **expériences professionnelles**.
 *Informations de contact* : coordonnées téléphoniques, courriel, envoi mail de contact.
 
 #### Technologies utilisées pour ce portfolio : 
-HTML5, CSS3, Javascript, Bootstrap, jQuery, GSAP GreenSock, ScrollMagic, Typewriter, Font-Awesome, Google Fonts. 
+* HTML5, CSS3, Javascript, 
+* Bootstrap, 
+* jQuery, 
+* GSAP GreenSock, ScrollMagic, Typewriter, 
+* Font-Awesome, Google Fonts. 
+
+
+#### Capture écrans
+![PortfolioSimplonFC-V3-captures](https://user-images.githubusercontent.com/52313745/94567696-08a9c780-026c-11eb-977a-35db4f080392.png)
