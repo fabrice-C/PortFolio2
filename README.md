@@ -21,7 +21,7 @@ Page d'introduction avec animation.
 
 ### Présentation
 
-Présentation succincte type "Pitch" avec affichage des principaux domaines de compétences.
+Présentation succincte modifiée type "Pitch" avec affichage des principaux domaines de compétences.
 
 ### Projets formation Simplon
 
