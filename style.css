@@ -525,6 +525,12 @@ h1 {
 .pres-gauche p {
     text-align: justify;
 }
+.pres-gauche li{
+    list-style-type: none;
+}
+.pres-gauche a{   
+    color: #fefefe;
+}
 
 .pres-droite {
     width: 600px;
@@ -653,6 +659,31 @@ h1 {
 .simplon{
     color:rgba(204, 35, 58, 0.9);
 }
+
+/* Effet glace sur Portfolio Simplon (texte) */
+.glass{
+    background:rgba(255, 255, 255, 0.5);
+    /* padding: 5em; */
+    max-width: 600px;
+    line-height: 1.5em;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    /*-webkit-pour navigateur chrome-safari et IOS Safari*/
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+.glass:hover{
+    backdrop-filter: blur(20px) saturate(100%);
+    -webkit-backdrop-filter: blur(20px) saturate(100%);
+    color: teal;
+}
+.glass a{
+    color:teal;
+}
+
 
 .cont-portfolio {
     width: 100%;
